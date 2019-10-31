@@ -2,7 +2,7 @@
 layout: post
 title: "\_ \_  \"Hello Blog. Hello Again in 2019\""
 subtitle: "\_ \"Why I started a bog\""
-date: "\_ \_ \_ 201-10-31 01:53:16"
+date: "\_ \_ \_ 2019-10-31 01:53:16"
 author: Jin
 header-img: img/post-bg-2015.jpg
 catalog: true
