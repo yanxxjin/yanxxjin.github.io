@@ -23,11 +23,13 @@ published: true
 
 > 写作是一个好习惯，深以为然。这是一个梳理、总结的过程，更是一个重新思考的过程。
 
-以下是我2017年写的(傻)序，将就看看吧。另外更新，免费域名被 Freenom 商家无故收回并抬价出售，大概是看到网站有了不少流量，故出此毫无契约精神之举。果不其然，免费的就是最贵的。17年的我写道：
+以下是我2017年写的(傻)序，将就看看吧。另外更新，免费域名被 Freenom 商家无故收回并抬价出售，大概是看到网站有了不少流量，故出此毫无契约精神之下举。果不其然，免费的就是最贵的。17年的我写道：
 
 > 要是想安安心心做网站，最好避免使用免费域名
 
 一语成谶。
+
+
 
 
 
@@ -116,7 +118,7 @@ published: true
 * [GitHub][] - The world's leading software development platform
 * [Jekyll][] -  Simple, blog-aware, static sites
 * [Disqus][] - 评论系统
-* ~~[多说][] - 墙内评论系统 - 已下架
+* [多说][] - 墙内评论系统 - 已下架
 
 
 —— Jin 于 2019.10
@@ -131,4 +133,4 @@ published: true
 [CloudXNS]: https://www.cloudxns.net/ "CloudXNS"
 [GitHub Pages]: http://pages.github.com "GitHub Pages"
 [Freenom]: http://www.freenom.com/en/index.html?lang=en "Freenom"
-~~[多说]: http://duoshuo.com/ "多说"
+[多说]: http://duoshuo.com/ "多说"
