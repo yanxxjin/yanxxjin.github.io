@@ -6,7 +6,7 @@ height: 900px;  //图片素材高度
 top: -900px;
   bottom: unset;
   transition: all .5s ease-in-out;
-  background: url("/img/scroll.png");
+  background: url("/img/scroll.jpg");
 
 //隐藏箭头图标
   > i {
