@@ -17,7 +17,7 @@ zhihu_username:     jinstrong
 github_username:    yanxxjin
 #twitter_username:  
 #facebook_username:  yanxxjin
-#linkedin_username:  yanxxjin
+linkedin_username:  yanxxjin
 
 
 # Build settings
@@ -46,7 +46,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: jinsblog
+disqus_username: teogz
 
 # Duoshuo settings
 # duoshuo_username: yanxxjin
