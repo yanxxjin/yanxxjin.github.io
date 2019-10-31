@@ -114,7 +114,7 @@ published: true
 
 
 * [Freenom][] - 域名注册商
-* [CloudFlare][] - 域名解析服务
+* [CloudXNS][] - 域名解析服务
 * [GitHub][] - The world's leading software development platform
 * [Jekyll][] -  Simple, blog-aware, static sites
 * [Disqus][] - 评论系统
