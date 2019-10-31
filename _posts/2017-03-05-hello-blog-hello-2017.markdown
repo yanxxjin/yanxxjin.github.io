@@ -26,7 +26,7 @@ published: true
 
 以下是我2017年写的(傻)序，将就看看吧。另外更新，免费域名被 Freenom 商家无故收回并抬价出售，大概是看到网站有了不少流量，故出此毫无契约精神之下举。
 
-![域名被回收]({{site.baseurl}}/_posts/freenomkeng.jpg)
+![]({{site.baseurl}}//img/freenomkeng)
 
 果不其然，免费的就是最贵的。17年的我写道：
 
