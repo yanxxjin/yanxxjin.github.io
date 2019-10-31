@@ -1,16 +1,17 @@
 ---
-layout:     post
-title:      "「知乎」设计师如何学习前端？"
-subtitle:   "How designers learn front-end web development"
-date:       2017-03-02 12:00:00
+layout: post
+title: "\_ \_  \"「知乎」设计师如何学习前端？\""
+subtitle: "\_ \"How designers learn front-end web development\""
+date: "\_ \_ \_ 2017-03-02 12:00:00"
 author: Jin
-header-img: "img/post-bg-miui-ux.jpg"
+header-img: img/post-bg-miui-ux.jpg
 catalog: true
-tags: 
-- 知乎
-- 前端开发
-- UX Design
-- 学习
+tags:
+  - 知乎
+  - 前端开发
+  - UX Design
+  - 学习
+published: false
 ---
 
 ## 前言
@@ -191,10 +192,3 @@ $('.className').click(function(){
 <br>
 <br>
 <br>
-
-
-
-
-
-
-
