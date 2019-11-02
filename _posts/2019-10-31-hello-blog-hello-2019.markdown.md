@@ -120,8 +120,7 @@ published: true
 在此特别感谢以下几个站点，使搭建一个这样的博客成为了可能：
 
 
-* ~~[Freenom][] - 域名注册商~~ - 没有契约精神
-推荐 [Namecheap] 和 [Namesilo]
+* ~~[Freenom][] - 域名注册商~~ - 没有契约精神 - 推荐 [Namecheap] 和 [Namesilo]
 * [CloudFlare][] - 域名解析服务
 * [GitHub][] - The world's leading software development platform
 * [Jekyll][] -  Simple, blog-aware, static sites
