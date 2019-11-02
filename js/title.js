@@ -2,11 +2,11 @@ var OriginTitile = document.title;
 var titleTime;
 document.addEventListener('visibilitychange', function() {
     if (document.hidden) {
-        document.title = 'hello?';
+        document.title = '人呢?';
         clearTimeout(titleTime);
     }
     else {
-        document.title = '(*´∇｀*)'  + OriginTitile;
+        document.title = '○（＊￣︶￣＊）○';
         titleTime = setTimeout(function() {
             document.title = OriginTitile;
         }, 2000);
