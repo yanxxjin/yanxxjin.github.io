@@ -3,14 +3,15 @@ author: Jin
 catalog: true
 header-img: img/post-bg-2015.jpg
 layout: post
-subtitle: "\0  \"Why I started a bog\""
+subtitle: "\0\_ \"Why I started a bog\""
 tags:
   - 生活
   - Jekyll
   - Markdown
   - Blog
   - Github
-title: "\0  \0   \"Hello Blog. Hello Again in 2019\""
+title: "�\_ �\_  \"Hello Blog. Hello Again in 2019\""
+published: true
 ---
 
 
@@ -28,7 +29,7 @@ title: "\0  \0   \"Hello Blog. Hello Again in 2019\""
 
 > 写作是一个好习惯，深以为然。这是一个梳理、总结的过程，更是一个重新思考的过程。
 
-以下是我2017年写的(傻)序，将就看看吧。另外更新，免费域名jinsblog.tk 被 Freenom 商家无故收回并标价出售，大概是看到网站有了不少流量，故出此毫无契约精神之下举。
+以下是我2017年写的(傻)序，将就看看吧。另外更新，免费域名 jinsblog.tk 被 Freenom 商家无故收回并标价出售，大概是看到网站有了不少流量，故出此毫无契约精神之下举。
 
 ![img](/img/freenomkeng.jpg)
 
@@ -54,7 +55,7 @@ title: "\0  \0   \"Hello Blog. Hello Again in 2019\""
 为什要搭建这个博客？因为**生命在于折腾**。
 
 
-一边敲代码一边看着Jekyll生成的博客页面，内心迷之满足。文笔就那样，当作为一个新的开始吧！
+一边敲代码一边看着 Jekyll 生成的博客页面，内心迷之满足。文笔就那样，当作为一个新的开始吧！
 
 
 人们随着年龄的增长和经验的积累会逐渐地对事物形成固化的认识，上至宗教信仰，下至一道番茄汤的烹饪方法。如果守着这些经验和固化的认识停滞不前，生活就如同失去了原始动力，任由惯性引领。
@@ -104,10 +105,10 @@ title: "\0  \0   \"Hello Blog. Hello Again in 2019\""
 * **Jekyll** - 化繁为简，提取博客最重要功能；轻松定制
 
 
-~~其实在搭建这个博客的时候还没有决定好是否要正式购买域名......所以作为测试的这个某南太平洋岛国托克劳的域名其实是在[Freenom]处注册而得的，.tk属于全球四个真正免费的顶级域之一，其它三个分别是非洲国家马里.ml, 中非共和国.cf, 以及非洲国家加蓬.ga, 这四个域名都由荷兰的Freedom Registry公司负责运营。~~
+~~其实在搭建这个博客的时候还没有决定好是否要正式购买域名......所以作为测试的这个某南太平洋岛国托克劳的域名其实是在 [Freenom] 处注册而得的，.tk 属于全球四个真正免费的顶级域之一，其它三个分别是非洲国家马里.ml, 中非共和国.cf, 以及非洲国家加蓬.ga, 这四个域名都由荷兰的 Freedom Registry 公司负责运营。~~
 
 
-**不过，要是想安安心心做网站，最好避免使用免费域名 — 域名免费后，势必会有大量垃圾和钓鱼网站出现，导致一系列使用免费域名网站的档次随之降低，且有被搜索引擎封杀的风险。当然免费域名中也有精品，如ladyga.ga, ht.ml等，各位自行把握。**
+**不过，要是想安安心心做网站，最好避免使用免费域名 — 域名免费后，势必会有大量垃圾和钓鱼网站出现，导致一系列使用免费域名网站的档次随之降低，且有被搜索引擎封杀的风险。当然免费域名中也有精品，如 ladyga.ga, ht.ml 等，各位自行把握。**
 
 
 ---
@@ -131,15 +132,16 @@ title: "\0  \0   \"Hello Blog. Hello Again in 2019\""
 —— Jin 于 2019.10
 
 
-[Steve Losh]:   http://stevelosh.com/   "Steve Losh"
-[Derek Sivers]: http://sivers.org/  "Derek Sivers"
+[Steve Losh]:   http://stevelosh.com/                      "Steve Losh"
+[Derek Sivers]: http://sivers.org/                         "Derek Sivers"
 
-[Namecheap]: https://www.namecheap.com/  "Namecheap"
-[GitHub]: http://github.com   "Github"
-[Jekyll]:   https://github.com/mojombo/jekyll "Jekyll"
+[Namecheap]: https://www.namecheap.com/                    "Namecheap"
+[GitHub]: http://github.com                                "Github"
+[Jekyll]: https://jekyllrb.com                             "Jekyll"
 [Disqus]: http://disqus.com "Disqus"
-[CloudFlare]: https://www.cloudflare.com/ "CloudFlare"
-[GitHub Pages]: http://pages.github.com "GitHub Pages"
-[Namesilo]: https://www.namesilo.com/ "Namesilo"
-[Freenom]: http://www.freenom.com/en/index.html?lang=en "Freenom"
-[多说]: http://duoshuo.com/ "多说"
+[CloudFlare]: https://www.cloudflare.com/                  "CloudFlare"
+[GitHub Pages]: http://pages.github.com                    "GitHub Pages"
+[Namesilo]: https://www.namesilo.com/                      "Namesilo"
+
+[Freenom]: http://www.freenom.com/en/index.html?lang=en    "Freenom"
+[多说]: http://duoshuo.com/                                 "多说"
