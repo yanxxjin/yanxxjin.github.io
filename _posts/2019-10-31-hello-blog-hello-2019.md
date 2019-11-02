@@ -1,18 +1,20 @@
 ---
-author: Jin
+layout:     post
+title:      "Hello Again in 2019"
+subtitle:   " \"Why I started a bog\""
+date:       2019-10-30 12:00:00
+author:     "Jin"
+header-img: "img/post-bg-2015.jpg"
 catalog: true
-header-img: img/post-bg-2015.jpg
-layout: post
-subtitle: "\0\_ \"Why I started a bog\""
 tags:
   - 生活
   - Jekyll
   - Markdown
   - Blog
   - Github
-title: "�\_ �\_  \"Hello Blog. Hello Again in 2019\""
 published: true
 ---
+
 
 
 > We loved with a love that was more than love
