@@ -2,7 +2,7 @@ var OriginTitile = document.title;
 var titleTime;
 document.addEventListener('visibilitychange', function() {
     if (document.hidden) {
-        document.title = '人呢?';
+        document.title = '人咧?';
         clearTimeout(titleTime);
     }
     else {
