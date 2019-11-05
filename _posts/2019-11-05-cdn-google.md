@@ -1,18 +1,21 @@
 ---
 categories: Uncategoried
 layout: post
-published: false
-tags: 
-title: Unnamed
+published: true
+tags: -CF Workers
+      - 镜像
+      - 反代
+      
+title: 基于 CF Workers 反代 Google 制作镜像站
 ---
-# 基于 CF Workers 反代 Google 制作镜像站
+
 2019-11-05 10:22:46
 
 某位狗子朋友的 Mac 版本过旧导致无法安装 $$R 客户端，于是我制作了这个谷歌镜像站，无需科学上网也可直连。
 
 https://google.jinsblog.workers.dev/
 
-
+[跳过废话看技术支持](#build)
 
 ##一点简介
 
@@ -25,6 +28,8 @@ https://google.jinsblog.workers.dev/
 而在真正的云计算中，代码在最需要它的地方运行 —— 在响应德国用户时，代码就在德国运行；在处理数据库里的数据时，代码就在存储数据的机器上运行；在和第三方 API 交互时，代码就在托管 API 的地方运行。当人类探险者到达火星时，~~代码则需要在火星上运行~~ —— 毕竟探险者们不会愿意花一个半小时的时间等待 App 响应。
 
 CF Workers 正向着这个方向迈进，当部署一个 Worker 时，它会在30秒之内部署到 CF 的整个边缘网络，全世界100多个地点。域中的每个请求都会由离用户更近地点的 Worker 来处理，基于此来实现代码的“随处运行”。
+
+<p id = "build"></p>
 
 ## 技术实现
 
@@ -170,6 +175,8 @@ async function device_status (user_agent_info) {
 ```
 
 最后上一张效果图：
+
+![img](/img/cfgoogle.png)
 
 
 
