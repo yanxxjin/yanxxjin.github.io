@@ -1,21 +1,26 @@
 ---
-categories: Uncategoried
-layout: post
+layout:     post
+title:      "基于 CF Workers 反代 Google 制作镜像站"
+subtitle:   " \"此科学上网非彼科学上网\" "
+date:       "2019-11-05 10:22:56"
+author:     "Jin"
+header-img: 
+catalog: true
+tags:
+  - Cloudflare
+  - Proxy
+  - 镜像
+  - 科学上网
+  
 published: true
-tags: -CF Workers
-      - 镜像
-      - 反代
-      
-title: 基于 CF Workers 反代 Google 制作镜像站
 ---
 
-2019-11-05 10:22:46
 
-某位狗子朋友的 Mac 版本过旧导致无法安装 $$R 客户端，于是我制作了这个谷歌镜像站，无需科学上网也可直连。
+某位狗子朋友的 Mac 版本过旧导致无法安装 $$R 客户端，于是我制作了这个谷歌镜像站，国内无需xxx即可直连。
 
 https://google.jinsblog.workers.dev/
 
-[跳过废话看技术支持](#build)
+[跳过废话看代码](#build)
 
 ##一点简介
 
@@ -29,7 +34,6 @@ https://google.jinsblog.workers.dev/
 
 CF Workers 正向着这个方向迈进，当部署一个 Worker 时，它会在30秒之内部署到 CF 的整个边缘网络，全世界100多个地点。域中的每个请求都会由离用户更近地点的 Worker 来处理，基于此来实现代码的“随处运行”。
 
-<p id = "build"></p>
 
 ## 技术实现
 
@@ -39,6 +43,7 @@ CF Workers 正向着这个方向迈进，当部署一个 Worker 时，它会在3
 
 通过配置地址和IP地址过滤器可以禁止特定国家或地区使用反代服务；利用移动重定向器可以根据用户的设备来分发不同的网页。
 
+<p id = "build"></p>
 
 ```javascript
 // Website you intended to retrieve for users.
