@@ -180,7 +180,7 @@ async function device_status (user_agent_info) {
 
 最后上一张效果图：
 
-![img](/img/cfgoogle.png)
+![img](/img/cfwgoogle.png)
 
 
 
