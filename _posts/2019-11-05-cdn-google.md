@@ -1,21 +1,20 @@
 ---
-layout:     post
-title:      "基于 CF Workers 反代 Google 制作镜像站"
-subtitle:   " \"此科学上网非彼科学上网\" "
-date:       "2019-11-05 10:22:56"
-author:     "Jin" 
+layout: post
+title: 基于 CF Workers 反代 Google 制作镜像站
+subtitle: ' "此科学上网非彼科学上网" '
+date: '2019-11-05 10:22:56'
+author: Jin
 catalog: true
 tags:
   - Cloudflare
   - Proxy
   - 镜像
   - 科学上网
-  
 published: true
 ---
 
 
-某位狗子朋友的 Mac 版本过旧导致无法安装 $$R 客户端，于是我制作了这个谷歌镜像站，国内无需xxx即可直连。
+某位狗子朋友的 Mac 版本过旧导致无法安装 $$R 客户端，于是我制作了这个谷歌镜像站，国内无需 xxx 即可直连。
 
 https://google.jinsblog.workers.dev/
 
@@ -180,18 +179,5 @@ async function device_status (user_agent_info) {
 
 最后上一张效果图：
 
+
 ![img](/img/cfwgoogle.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
