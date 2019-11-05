@@ -3,8 +3,7 @@ layout:     post
 title:      "基于 CF Workers 反代 Google 制作镜像站"
 subtitle:   " \"此科学上网非彼科学上网\" "
 date:       "2019-11-05 10:22:56"
-author:     "Jin"
-header-img: 
+author:     "Jin" 
 catalog: true
 tags:
   - Cloudflare
