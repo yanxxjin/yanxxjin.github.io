@@ -10,13 +10,17 @@ tags:
   - Proxy
   - 镜像
   - 科学上网
+
 published: true
+
 ---
 
 
-某位狗子朋友的 Mac 版本过旧导致无法安装 $$R 客户端，于是我制作了这个谷歌镜像站，国内无需 xxx 即可直连。
+某位狗子朋友的 Mac 版本过旧导致无法安装 $$R 客户端，于是我制作了几个镜像站，国内无需 xxx 即可直连。
 
-https://google.jinsblog.workers.dev/
+谷歌镜像站 - https://google.jinsblog.workers.dev/
+谷歌学术镜像站 - https://googlescholar.jinsblog.workers.dev/
+维基镜像站 - https://wiki.jinsblog.workers.dev/
 
 [跳过废话看代码](#build)
 
@@ -177,7 +181,8 @@ async function device_status (user_agent_info) {
 }
 ```
 
-最后上一张效果图：
+上一张效果图：
 
 
 ![img](/img/cfwgoogle.png)
+
