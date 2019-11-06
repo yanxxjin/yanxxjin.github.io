@@ -2,6 +2,7 @@
 layout: post
 title: 基于 CF Workers 反代 Google 制作镜像站
 subtitle: ' "此科学上网非彼科学上网" '
+header-img: "img/mirror.jpg"
 date: '2019-11-05 10:22:56'
 author: Jin
 catalog: true
@@ -180,11 +181,13 @@ async function device_status (user_agent_info) {
 }
 ```
 
-## 最后：
+## 后记
 
-喜欢这个套“马”的汉子，上一张图：
+喜欢这个“套谷歌”的汉子，上一张图：
 
 ![img](/img/cfwgoogle.png)
+
+—— Jin 于 2019.11
 
 相关链接：
 
@@ -193,3 +196,4 @@ async function device_status (user_agent_info) {
 * [谷歌学术镜像站](https://googlescholar.jinsblog.workers.dev/)
 
 * [维基镜像站](https://wiki.jinsblog.workers.dev/)
+
