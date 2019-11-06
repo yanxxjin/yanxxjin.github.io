@@ -187,8 +187,6 @@ async function device_status (user_agent_info) {
 
 ![img](/img/cfwgoogle.png)
 
-—— Jin 于 2019.11
-
 相关链接：
 
 * [Cloudflare Workers](https://www.cloudflare.com/de-de/products/cloudflare-workers/)
@@ -196,4 +194,6 @@ async function device_status (user_agent_info) {
 * [谷歌学术镜像站](https://googlescholar.jinsblog.workers.dev/)
 
 * [维基镜像站](https://wiki.jinsblog.workers.dev/)
+
+—— Jin 于 2019.11
 
