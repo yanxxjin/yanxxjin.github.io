@@ -10,21 +10,19 @@ tags:
   - Proxy
   - 镜像
   - 科学上网
-
 published: true
-
 ---
 
 
 某位狗子朋友的 Mac 版本过旧导致无法安装 $$R 客户端，于是我制作了几个镜像站，国内无需 xxx 即可直连。
 
-谷歌镜像站 - https://google.jinsblog.workers.dev/
-谷歌学术镜像站 - https://googlescholar.jinsblog.workers.dev/
-维基镜像站 - https://wiki.jinsblog.workers.dev/
+[谷歌镜像站](https://google.jinsblog.workers.dev/)
+[谷歌学术镜像站](https://googlescholar.jinsblog.workers.dev/)
+[维基镜像站](https://wiki.jinsblog.workers.dev/)
 
 [跳过废话看代码](#build)
 
-##一点简介
+## 一点简介
 
 > Cloudflare Workers 的名字来源于 Web Workers 以及更特别的 Service Workers，这个 W3C 标准 API 针对的是在浏览器后台运行并拦截 HTTP 请求的脚本。Cloudflare Workers 是使用同样的标准API编写的，但是在 Cloudflare 的服务器上运行，而不是在浏览器中。
 
@@ -181,8 +179,18 @@ async function device_status (user_agent_info) {
 }
 ```
 
-上一张效果图：
+## 最后：
 
+喜欢这个套“马”的汉子，上一张图：
 
 ![img](/img/cfwgoogle.png)
+
+相关链接：
+
+[Cloudflare Workers](https://www.cloudflare.com/de-de/products/cloudflare-workers/)
+
+
+
+
+
 
