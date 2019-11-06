@@ -14,7 +14,7 @@ published: true
 ---
 
 
-某位狗子朋友的 Mac 版本过旧导致无法安装 $$R 客户端，于是我制作了几个镜像站，国内无需 xxx 即可直连。
+某位狗子朋友的 Mac 版本过旧导致无法安装 $$R 客户端，于是我制作了镜像站，国内无需 xxx 即可直连。
 
 [谷歌镜像站](https://google.jinsblog.workers.dev/)
 
@@ -188,8 +188,8 @@ async function device_status (user_agent_info) {
 
 相关链接：
 
-[Cloudflare Workers](https://www.cloudflare.com/de-de/products/cloudflare-workers/)
+* [Cloudflare Workers](https://www.cloudflare.com/de-de/products/cloudflare-workers/)
 
-[谷歌学术镜像站](https://googlescholar.jinsblog.workers.dev/)
+* [谷歌学术镜像站](https://googlescholar.jinsblog.workers.dev/)
 
-[维基镜像站](https://wiki.jinsblog.workers.dev/)
+* [维基镜像站](https://wiki.jinsblog.workers.dev/)
