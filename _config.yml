@@ -88,14 +88,14 @@ friends: [
         title: "Steve Losh",
         href: "http://stevelosh.com/"
     },{
-        title: "",
-        href: "#"
+        title: "谷歌镜像站",
+        href: "https://google.jinsblog.workers.dev/"
     },{
-        title: "",
-        href: "#"
+        title: "谷歌学术镜像站",
+        href: "https://googlescholar.jinsblog.workers.dev/"
     },{
-        title: "",
-        href: "#"
+        title: "维基镜像站",
+        href: "https://wiki.jinsblog.workers.dev/"
     },{
         title: "",
         href: "#"
