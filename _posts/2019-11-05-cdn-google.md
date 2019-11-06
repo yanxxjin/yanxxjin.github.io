@@ -189,11 +189,7 @@ async function device_status (user_agent_info) {
 相关链接：
 
 [Cloudflare Workers](https://www.cloudflare.com/de-de/products/cloudflare-workers/)
+
 [谷歌学术镜像站](https://googlescholar.jinsblog.workers.dev/)
+
 [维基镜像站](https://wiki.jinsblog.workers.dev/)
-
-
-
-
-
-
