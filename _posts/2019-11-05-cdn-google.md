@@ -17,8 +17,7 @@ published: true
 某位狗子朋友的 Mac 版本过旧导致无法安装 $$R 客户端，于是我制作了几个镜像站，国内无需 xxx 即可直连。
 
 [谷歌镜像站](https://google.jinsblog.workers.dev/)
-[谷歌学术镜像站](https://googlescholar.jinsblog.workers.dev/)
-[维基镜像站](https://wiki.jinsblog.workers.dev/)
+
 
 [跳过废话看代码](#build)
 
@@ -37,11 +36,13 @@ CF Workers 正向着这个方向迈进，当部署一个 Worker 时，它会在3
 
 ## 技术实现
 
-该 Workers-Proxy 项目是一个轻量级的 JavaScript 应用程序，部署在 CF 上作为客户端从其他服务器检索资源，来实现自定义反向代理的构建，而无需购买计算引擎或配置 Nginx 等 Web 服务器。
+该 Proxy 项目是一个轻量级的 JavaScript 应用程序，部署在 CF 上作为客户端从其他服务器检索资源，来实现自定义反向代理的构建，而无需购买计算引擎或配置 Nginx 等 Web 服务器。
 
 程序会通过 CF 遍布90多个国家/地区的全球数据中心网络进行分发，所以延迟和可用性将得到极大优化。
 
 通过配置地址和IP地址过滤器可以禁止特定国家或地区使用反代服务；利用移动重定向器可以根据用户的设备来分发不同的网页。
+
+新建一个 Worker 后，拷贝下列代码并做相应修改即可：
 
 <p id = "build"></p>
 
@@ -188,6 +189,8 @@ async function device_status (user_agent_info) {
 相关链接：
 
 [Cloudflare Workers](https://www.cloudflare.com/de-de/products/cloudflare-workers/)
+[谷歌学术镜像站](https://googlescholar.jinsblog.workers.dev/)
+[维基镜像站](https://wiki.jinsblog.workers.dev/)
 
 
 
